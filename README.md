@@ -1,3 +1,7 @@
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/sucknet/gilded-shard-koi/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/sucknet/gilded-shard-koi/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+
 # The Gilded Shard Koi
 
 An ornate gilded frame hangs on the wall of a dark museum hall — and it is coming apart mid-breath. Carved gold leaf shatters outward in a slow bloom of flying shards, each splinter catching a shaft of god ray from the vaulted ceiling far above. Through the breach a colossal koi surges toward the viewer, its body not scale and bone but molten gold, liquid and gleaming, fins streaming like poured metal as it leaps clean out of the frame and into the room. The fractured remains of the gilded border hang suspended around it, frozen at the instant of breakthrough, while the hall's shadows fall away beneath that impossible burnished glow.
